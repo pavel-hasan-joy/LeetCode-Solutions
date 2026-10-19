@@ -46,7 +46,7 @@ This repository is **language-agnostic** and automatically synchronized via **Le
 
 <div align="center">
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=pavel-hasan-joy&theme=github_dark" alt="LeetCode Stats" />
+    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=pavel-hasan-joy&theme=github_dark&cache_bust=1" alt="LeetCode Stats" />
   </a>
 </div>
 
