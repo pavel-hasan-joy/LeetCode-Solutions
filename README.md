@@ -85,3 +85,19 @@ Each problem directory contains:
 <div align="center">
   <sub>Maintained with ❤️ by <a href="https://github.com/pavel-hasan-joy">Pavel Hasan Joy</a> • Synced via LeetHub</sub>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+<!---LeetCode Topics End-->
