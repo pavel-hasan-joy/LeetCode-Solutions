@@ -91,6 +91,7 @@ Each problem directory contains:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@ Each problem directory contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/pavel-hasan-joy/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
