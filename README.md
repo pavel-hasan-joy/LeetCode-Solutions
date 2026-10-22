@@ -50,7 +50,7 @@ This repository is **language-agnostic** and automatically synchronized via **Le
   </a>
   <br/><br/>
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="./assets/submission-activity.svg" alt="LeetCode Submission Activity" />
+    <img src="https://leetcode-stats-six.vercel.app/pavel-hasan-joy/graph?theme=dark" alt="LeetCode Submission Graph" />
   </a>
 </div>
 
