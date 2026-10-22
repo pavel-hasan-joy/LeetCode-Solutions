@@ -50,7 +50,7 @@ This repository is **language-agnostic** and automatically synchronized via **Le
   </a>
   <br/><br/>
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/pavel-hasan-joy?theme=dark&font=Space%20Grotesk&ext=heatmap&hide=ranking" alt="LeetCode 52-Week Activity Heatmap" width="92%" />
+    <img src="assets/leetcode-heatmap.svg" width="97%" alt="52-Week Submission Heatmap" />
   </a>
 </div>
 
