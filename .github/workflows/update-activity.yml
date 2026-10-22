@@ -1,0 +1,42 @@
+name: Update LeetCode Submission Activity
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'assets/submission-activity.svg'
+      - '.github/workflows/update-activity.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Submission Activity SVG
+        run: node scripts/update-activity.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/submission-activity.svg
+          if git diff --staged --quiet; then
+            echo "No changes in activity graph."
+          else
+            git commit -m "chore(telemetry): update live submission activity graph [skip ci]"
+            git push
+          fi
