@@ -50,7 +50,7 @@ This repository is **language-agnostic** and automatically synchronized via **Le
   </a>
   <br/><br/>
   <a href="https://leetcode.com/u/pavel-hasan-joy/" target="_blank">
-    <img src="assets/leetcode-heatmap.svg" width="97%" alt="52-Week Submission Heatmap" />
+    <img src="https://github-readme-leetcode-card.romitsagu.com/pavel-hasan-joy?theme=tokyonight&show=graph" alt="LeetCode Submission Activity" />
   </a>
 </div>
 
